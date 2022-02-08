@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  height: 50vh;
+  width: 50vh;
+  
+}
+
+ .Card{
+  text-align: center;
+  height: 40vh;
+  width: 30vw;
+  text-align: center;
+  background-color: cyan;
+  color: white;
+  margin-top:0.5rem;
+
+} 
+.CardRow1{
+  display:flex;
+  gap:10rem;
+  margin-left:15rem;
+  margin-bottom: 5rem; 
+}
+
+.CardRow2{
+  display:flex;
+  margin-left:15rem;
+  gap:10rem;
+}
